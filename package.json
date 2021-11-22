@@ -55,5 +55,8 @@
   },
   "engines": {
     "node": ">=12"
+  },
+  "dependencies": {
+    "bootstrap-icons": "^1.7.1"
   }
 }
