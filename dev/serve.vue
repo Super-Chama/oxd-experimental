@@ -13,6 +13,8 @@ export default defineComponent({
 
 <template>
   <div id="app">
+    <oxd-button label="Click" />
+    <oxd-icon-button name="trash" />
     <oxd-alert
       :show="true"
       type="success"
