@@ -13,6 +13,7 @@ export default defineComponent({
 
 <template>
   <div id="app">
+    <oxd-calendar />
     <oxd-button label="Click" />
     <oxd-icon-button name="trash" />
     <oxd-alert

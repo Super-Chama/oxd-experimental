@@ -1,6 +1,8 @@
 {
-  "name": "oxd-experimental",
-  "version": "1.0.0",
+  "name": "@eth0/oxd-experimental",
+  "license": "GPL-3.0",
+  "private": false,
+  "version": "0.0.1",
   "description": "",
   "main": "dist/oxd-experimental.ssr.js",
   "browser": "dist/oxd-experimental.esm.js",
@@ -57,6 +59,7 @@
     "node": ">=12"
   },
   "dependencies": {
-    "bootstrap-icons": "^1.7.1"
+    "bootstrap-icons": "^1.7.1",
+    "date-fns": "^2.26.0"
   }
 }

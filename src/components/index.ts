@@ -5,3 +5,4 @@ export { default as OxdIcon } from "./Icon/Icon.vue";
 export { default as OxdAlert } from "./Alert/Alert.vue";
 export { default as OxdButton } from "./Button/Button.vue";
 export { default as OxdIconButton } from "./Button/IconButton.vue";
+export { default as OxdCalendar } from "./Calendar/Calendar.vue";
