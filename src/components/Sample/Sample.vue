@@ -11,7 +11,7 @@ interface SampleData {
 }
 
 export default /*#__PURE__*/defineComponent({
-  name: 'OxdExperimentalSample', // vue component name
+  name: 'oxd-sample', // vue component name
   data(): SampleData {
     return {
       counter: 5,
